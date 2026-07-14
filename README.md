@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<table align="center"><tr><td><pre>
 ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
 ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
 ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗
 ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║
 ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
 ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
-```
+</pre></td></tr></table>
 
 # Hey, I'm Taran 👋
 ### ⚙️ Senior DevOps Engineer · Cloud Architect · Cloud Security
@@ -99,8 +99,10 @@ philosophy: "Ship fast. Fail safe. Recover faster."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=22taran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22taran&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=22taran&theme=tokyonight" />
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=22taran&theme=tokyonight" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=22taran&theme=tokyonight" />
 
 </div>
 
@@ -114,12 +116,19 @@ philosophy: "Ship fast. Fail safe. Recover faster."
 
 ## 🏗️ Featured Projects
 
-<a href="https://github.com/22taran/terraform-aws-quickstart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=22taran&repo=terraform-aws-quickstart&theme=tokyonight" />
-</a>
-<a href="https://github.com/22taran/kneeops">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=22taran&repo=kneeops&theme=tokyonight" />
-</a>
+**[🛠️ terraform-aws-quickstart](https://github.com/22taran/terraform-aws-quickstart)**
+&nbsp;
+<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/HCL-%23844FBA.svg?style=flat&logo=terraform&logoColor=white" />
+
+> Production-grade AWS infrastructure-as-code for a full three-tier web app — SPA on S3 + CloudFront, API on ECS Fargate, database on RDS, Cognito auth, WAF, CloudWatch monitoring, and CI/CD across GitHub / Bitbucket / GitLab.
+
+**[🩻 kneeops](https://github.com/22taran/kneeops)**
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white" />
+
+> MRI knee-injury classification web application.
 
 ---
 
