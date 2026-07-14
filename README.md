@@ -124,6 +124,13 @@ philosophy: "Ship fast. Fail safe. Recover faster."
 
 > MRI knee-injury classification web application.
 
+**[🤖 ai-project-assistant](https://github.com/22taran/ai-project-assistant)**
+&nbsp;
+<img src="https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/AI-%23412991.svg?style=flat&logo=openai&logoColor=white" />
+
+> AI-powered project assistant.
+
 ---
 
 ### 🤝 Connect with Me
