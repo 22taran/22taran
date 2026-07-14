@@ -99,7 +99,10 @@ philosophy: "Ship fast. Fail safe. Recover faster."
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub metrics" />
+![Followers](https://img.shields.io/github/followers/22taran?style=for-the-badge&logo=github&color=2196F3&labelColor=1a1b27)
+![Stars](https://img.shields.io/github/stars/22taran?style=for-the-badge&logo=github&color=2196F3&labelColor=1a1b27)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=22taran&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
