@@ -99,16 +99,7 @@ philosophy: "Ship fast. Fail safe. Recover faster."
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=22taran&theme=tokyonight" />
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=22taran&theme=tokyonight" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=22taran&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=22taran&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="./github-metrics.svg" alt="GitHub metrics" />
 
 </div>
 
