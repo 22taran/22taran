@@ -127,9 +127,10 @@ philosophy: "Ship fast. Fail safe. Recover faster."
 **[🤖 ai-project-assistant](https://github.com/22taran/ai-project-assistant)**
 &nbsp;
 <img src="https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/AI-%23412991.svg?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-%23412991.svg?style=flat&logo=databricks&logoColor=white" />
 
-> AI-powered project assistant.
+> A private project knowledge assistant on Slack. Team members DM or @-mention the bot to ask anything about the project and get answers grounded in your docs — with source citations. Access is gated by an allow-list, so only approved people get answers.
 
 ---
 
